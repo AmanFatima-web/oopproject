@@ -131,6 +131,7 @@
     <ClCompile Include="Sample.cpp" />
     <ClCompile Include="Scientist.cpp" />
     <ClCompile Include="SafetyApproval.cpp" />
+    <ClCompile Include="Storage.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chemical.h" />
