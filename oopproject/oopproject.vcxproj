@@ -142,6 +142,7 @@
     <ClInclude Include="SafetyApproval.h" />
     <ClInclude Include="Sample.h" />
     <ClInclude Include="Scientist.h" />
+    <ClInclude Include="Storage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
