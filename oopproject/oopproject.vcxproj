@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="Chemical.cpp" />
     <ClCompile Include="Equipment.cpp" />
+    <ClCompile Include="Laboratory.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="Date.cpp" />
     <ClCompile Include="Report.cpp" />
