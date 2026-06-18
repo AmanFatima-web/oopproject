@@ -5,7 +5,7 @@
 #include "MyString.h"
 using namespace std;
 
-class Experiment;
+class Experiment; // forward declaration (Experiment.h includes Scientist.h, not the other way)
 
 // ---------------- Scientist (abstract base class) ----------------
 class Scientist {
@@ -20,7 +20,7 @@ public:
     Scientist(int id, MyString n, MyString qual, int expYears, MyString r);
     virtual ~Scientist();
 
- 
+    // pure virtual -> each role decides usage approval / experiment start differently
     virtual bool approveUsage(Experiment* exp) = 0;
     virtual void startExperiment(Experiment* exp) = 0;
 
