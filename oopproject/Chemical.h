@@ -20,7 +20,7 @@ public:
     Chemical(int id, MyString name, int hazard, Date expiry, double qty, MyString u);
     virtual ~Chemical();
 
-    // pure virtual -> every type of chemical calculates risk differently
+  
     virtual double calculateHazardRisk() const = 0;
 
     int getChemicalID() const;
