@@ -124,9 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp" />
+    <ClCompile Include="Date.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="Date.h" />
     <ClInclude Include="MyString.h" />
     <ClInclude Include="MyVector.h" />
   </ItemGroup>
