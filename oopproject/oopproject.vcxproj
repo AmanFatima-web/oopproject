@@ -130,6 +130,7 @@
     <ClCompile Include="Report.cpp" />
     <ClCompile Include="Sample.cpp" />
     <ClCompile Include="Scientist.cpp" />
+    <ClCompile Include="SafetyApproval.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chemical.h" />
