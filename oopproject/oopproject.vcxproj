@@ -138,6 +138,7 @@
     <ClInclude Include="MyString.h" />
     <ClInclude Include="MyVector.h" />
     <ClInclude Include="Report.h" />
+    <ClInclude Include="SafetyApproval.h" />
     <ClInclude Include="Sample.h" />
     <ClInclude Include="Scientist.h" />
   </ItemGroup>
