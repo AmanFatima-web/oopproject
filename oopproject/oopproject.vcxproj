@@ -146,6 +146,7 @@
     <ClInclude Include="MyVector.h" />
     <ClInclude Include="Project.h" />
     <ClInclude Include="Report.h" />
+    <ClInclude Include="Repository.h" />
     <ClInclude Include="SafetyApproval.h" />
     <ClInclude Include="Sample.h" />
     <ClInclude Include="Scientist.h" />
