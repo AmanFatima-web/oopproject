@@ -24,6 +24,9 @@
     <ClCompile Include="Equipment.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Chemical.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyString.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Equipment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chemical.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
