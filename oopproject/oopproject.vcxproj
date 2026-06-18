@@ -127,6 +127,7 @@
     <ClCompile Include="Equipment.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="Date.cpp" />
+    <ClCompile Include="Sample.cpp" />
     <ClCompile Include="Scientist.cpp" />
   </ItemGroup>
   <ItemGroup>
