@@ -50,6 +50,3 @@ ostream& operator<<(ostream& out, const Date& d) {
     out << d.day << "-" << d.month << "-" << d.year;
     return out;
 }
-int main() {
-    return 0;
-}

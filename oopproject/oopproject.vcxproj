@@ -127,6 +127,7 @@
     <ClCompile Include="Equipment.cpp" />
     <ClCompile Include="Experiment.cpp" />
     <ClCompile Include="Laboratory.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="Date.cpp" />
     <ClCompile Include="Project.cpp" />

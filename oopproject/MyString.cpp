@@ -118,6 +118,3 @@ istream& operator>>(istream& in, MyString& str) {
     str = MyString(buffer);
     return in;
 }
-int main1() {
-    return 0;
-}
